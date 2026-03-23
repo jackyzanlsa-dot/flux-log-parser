@@ -1,0 +1,45 @@
+```
+# Executable files
+flux-log-parser
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Dependencies and build artifacts
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+.env
+lib/
+lib64/
+bin/
+dist/
+build/
+target/
+.gradle/
+.mypy_cache/
+.pytest_cache/
+coverage/
+htmlcov/
+.coverage
+
+# System files
+.DS_Store
+Thumbs.db
+```
